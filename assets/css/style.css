@@ -1113,3 +1113,29 @@ section {
   font-size: 13px;
   color: #e8c972;
 }
+
+.bi-geo-alt::before {
+    margin-left: 50%;
+}
+
+.bi-envelope::before {
+    margin-left: 50%;
+}
+
+.bi-phone::before {
+    margin-left: 50%;
+}
+
+.bi-facebook::before {
+	margin-right: 10px;
+}
+
+.bi-instagram::before {
+	margin-right: 10px;
+}
+
+.bi-linkedin::before {
+	margin-right: 10px;
+}
+
+
