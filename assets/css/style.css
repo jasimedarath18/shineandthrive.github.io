@@ -902,6 +902,38 @@ section {
   top: 4px;
 }
 
+.quoteSub {
+  position: relative;
+  background: #f7f7f7;
+  color: #e8c972;
+  padding: 20px;
+  margin-top: 40px;
+  font-size: 16px;
+  font-style: italic;
+  border-radius: 5px;
+}
+
+.quoteSub b {
+  display: inline-block;
+  font-size: 22px;
+  left: -9px;
+  position: relative;
+  top: -8px;
+}
+
+.quoteSub small {
+  display: inline-block;
+  right: -9px;
+  position: relative;
+  top: 4px;
+}
+
+#filler {
+  background: #fff;
+  padding: 80px 0 60px 0;
+}
+
+
 /* Team Section
 --------------------------------*/
 #team {
